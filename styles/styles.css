@@ -425,7 +425,7 @@ video {
 @font-face {
   font-family: "vazir";
 
-  src: local("vazir"), url("../public/fonts/vazir.woff2") format("woff2");
+  src: local("vazir"), url("../fonts/vazir.woff2") format("woff2");
 
   font-display: swap;
 }
